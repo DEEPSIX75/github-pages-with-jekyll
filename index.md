@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Keyboard face rolling coding
 
-I'm glad you are here. I plan to talk about ...
+** If you are here, I am guessing that you have a lot of free-time! **
